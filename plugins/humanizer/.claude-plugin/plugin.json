@@ -1,0 +1,13 @@
+{
+  "name": "humanizer",
+  "description": "Reescreve texto com cara de IA para que soe como quem escreveu, sem mudar o que ele diz. Tradução para português do humanizer de blader.",
+  "version": "3.1.0-pt.1",
+  "author": {
+    "name": "blader (Siqi Chen)",
+    "url": "https://github.com/blader"
+  },
+  "homepage": "https://github.com/blader/humanizer",
+  "repository": "https://github.com/rluuan/claude-catalogo",
+  "license": "MIT",
+  "keywords": ["escrita", "revisão", "humanizar", "texto", "estilo"]
+}

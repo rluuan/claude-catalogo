@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "claude-catalogo",
+  "owner": {
+    "name": "rluuan",
+    "url": "https://github.com/rluuan"
+  },
+  "description": "Catálogo pessoal de plugins e skills para o Claude, em português.",
+  "plugins": [
+    {
+      "name": "humanizer",
+      "source": "./plugins/humanizer",
+      "description": "Reescreve texto com cara de IA para que soe como quem escreveu. Tradução do humanizer de blader.",
+      "license": "MIT",
+      "keywords": ["escrita", "revisão", "humanizar", "texto", "estilo"]
+    }
+  ]
+}
